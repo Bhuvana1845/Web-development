@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix</title>
+</head>
+<link rel="stylesheet" href="netflix.css">
+<body>
+    <header>
+        <div class="back-img">
+          <div class="nf-info">
+            <div class="nf-text">
+                <div class="top-logo">
+                    
+                </div>
+                <div class="nf-top">
+                    
+                        <select class="top-lang">
+                            <option>English</option>
+                            <option>Hindi</option>
+                            <option>Kannada</option>
+                            <option>Telugu</option>
+                            <option>Tamil</option>
+
+                        </select>
+                        <button>Sign In</button>
+                  
+                </div>
+            <p class="first">Unlimited movies,</p>
+            <p class="first">TV shows and more</p>
+            <p class="sec">Starts at ₹149. Cancel at any time.</p>   
+            <p class="third">Ready to watch? Enter your email to create or restart your membership.</p>
+            </div><br><br>
+            <div class="nf-mail">
+                <label for="mail-ad"></label>
+                <input id="mail-ad" type="email" placeholder="  Email address">
+                <div class="start">
+                <label for="start" >Get Started  &gt;</label>
+                </div>
+                
+            </div>
+                
+          </div>
+        </div>
+        <div class="trendbox">
+        <p class="trend">Trending Now</p>
+        <select>
+            <option>India</option>
+            <option>United States</option>
+        </select>
+        <select>
+            <option>Movies</option>
+            <option>Web Series</option>
+        </select>
+        <div class="boxes">
+        <div class="box">
+            <div class="box-content">
+            <div class="box1"></div>
+            <div class="box2"></div>
+            <div class="box3"></div>
+            <div class="box4"></div>
+
+            </div>
+        </div>
+        </div>
+        
+    </header>
+    <footer>
+        <p class="foot-information">More reasons to join</p><br>
+        <div class="all">
+        <div class="panel1">
+            <p class="big">Enjoy on your TV</p>
+            <p class="small">Watch on smart TVs,</p>
+            <p class="small">PlayStation, Xbox, Chromecast,</p>
+            <p class="small">Apple TV, 
+            Blu-ray players</p> <p class="small">and more.</p>
+        </div>
+        <div class="panel1">
+            <p class="big">Download your shows to watch offline</p>
+            <p class="small">Save your favourites easily and</p>
+            <p class="small">always have something to</p>
+            <p class="small">watch.</p>
+        </div>
+        <div class="panel1">
+            <p class="big">Watch everywhere</p>
+            <p class="small">Stream unlimited movies and</p>
+            <p class="small">TV shows on your phone,</p>
+            <p class="small">tablet, laptop and TV.</p>
+        </div>
+        <div class="panel1">
+            <p class="big">Create profiles for kids</p>
+            <p class="small">Send kids on adventures with</p>
+            <p class="small">their favourite characters in a</p>
+            <p class="small">space made just for them —</p> <p class="small">free with your membership.</p>
+        </div>
+        </div>
+        <div class="foot-panel2">
+            <P class="foot-info">Frequently Asked Questions</P>
+            <p class="quest f">What is Netflix?                    +</p>
+            <p class="quest s">How much does Netflix cost?         +</p>
+            <p class="quest t">Where can I watch?                  +</p>
+            <p class="quest fr">How do I cancel?                   +</p>
+            <p class="quest fv">What can I watch on Netfli         +</p>
+            <p class="quest six">Is Netflix good for kids?         +</p>
+        </div>
+        <div class="foot-panel3">
+            <p>Ready to watch? Enter your email to create or restart your membership.</p>
+            <div class="nf-mail">
+                <label for="mail-ad"></label>
+                <input id="mail-ad" type="email" placeholder="  Email address">
+                <div class="start">
+                <label for="start" >Get Started  &gt;</label>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+        <div class="foot-panel4">
+            <p>Questions? Call <u>000-800-919-1694</u></p>
+            <div class="foot-p1">
+            <p><u>FAQ</u></p><br>
+            <p><u>Investor Relations</u></p><br>
+            <p><u>Privacy</u></p><br>
+            <p><u>Speed Test</u></p>
+            </div>
+            <div class="foot-p2">
+                <p><u>Help Center</u></p>
+                <p><u>Jobs</u></p>
+                <p><u>Cookie Preferences</u></p>
+                <p><u>Legal Notice</u></p>
+            </div>
+            <div class="foot-p3">
+                <p><u>Account</u></p>
+                <p><u>Ways to Watch</u></p>
+                <p><u>Corporate Information</u></p>
+                <p><u>Only on Netflix</u></p>
+            </div>
+            <div class="foot-p4">
+                <p><u>Media</u></p>
+                <p><u>Terms of Use</u></p>
+                <p><u>Contact Us</u></p>
+               
+            </div>
+            <select>
+                <option>English</option>
+                <option>Hindi</option>
+                <option>Kannada</option>
+                <option>Telugu</option>
+                <option>Tamil</option>
+            </select>
+            <p class="last">&copy; Netflix India</p>
+        </div>
+    </footer>
+    
+</body>
+</html>
