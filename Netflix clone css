@@ -1,0 +1,275 @@
+body{
+    background-color: rgb(4, 4, 10);
+}
+.back-img{
+    background-image: url(nf-bcg.jpg);
+    background-size: cover;
+    height: 600px;
+    width: 1300px;
+    opacity: 0.6;
+}
+nf-text{
+    margin-top: 50%;
+}
+.first{
+    color: whitesmoke;
+    font-size: 60px;
+    font-weight: 1rem;
+    text-align: center;
+    font-family: larger;
+}
+.sec{
+    color:white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+.third{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+input{
+    border: 1px solid  white;
+    color: white;
+    background-color: rgb(68, 60, 60);
+    height: 50px;
+    width: 300px;
+    font-size: 18px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    display: inline;
+}
+.start{
+    background-color: red;
+    color: white;
+    height: 48px;
+    width: 180px;
+    padding-top: 10px;
+    padding-left: 9px;
+    margin-left: 5px;
+    border-radius: 5px;
+    font-size: 30px;
+   
+}
+select{
+    background-color:rgb(4, 4, 10); 
+    color: whitesmoke;
+    height: 40px;
+    width: 100px;
+    margin-left: 25px;
+    margin-top: 15px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.trend{
+    color: white;
+    font-size: 30px;
+    font-weight: 4px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.box1{
+    
+    height: 300px;
+    width: 200px;
+    background-image: url(box1.jpg);
+    background-size: cover;
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding-top: 15px;
+  
+}
+.box2{
+    
+    height: 300px;
+    width: 200px;
+    background-image: url(box2.jpg);
+    background-size: cover;
+    margin-left: 25px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding-top: 15px;
+    
+}
+.box3{
+    
+    height: 310px;
+    width: 200px;
+    background-image: url(box3.png);
+    background-size: cover;
+    margin-left: 25px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding-top: 15px;
+    
+}
+.box4{
+    
+    height: 300px;
+    width: 200px;
+    background-image: url(box4.jpg);
+    background-size: cover;
+    margin-left: 25px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding-top: 15px;
+   
+}
+.foot-information{
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+    padding-left: 5px;
+    padding-top: 20px;
+}
+.panel1{
+    margin-top: 0;
+    margin-left: 25px;
+    background-color: rgb(7, 7, 63);
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    height: 280px;
+    width: 250px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.big{
+    font-size: 30px;
+    font-weight: 1rem;
+    display: inline;
+}
+.small{
+    padding-top: 10px;
+}
+footer{
+    padding-left: 25px;
+}
+.quest{
+    height: 25px;
+    width: 85%;
+    background-color: rgb(48, 39, 39);
+    color: white;
+    border: 1px solid transparent;
+    padding-top: 20px;
+    margin-top: 10px;
+    padding-left: 20px;
+    justify-content: center;
+    align-items: center;
+   
+}
+.foot-panel2{
+    padding-left: 150px;
+}
+.nf-mail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.foot-panel4{
+    color: white;
+    border: 1px solid transparent;
+    padding-top: 10px;
+    padding: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.foot-p1{
+   height: 230px;
+   width: 200px;
+   border: 1px solid transparent;
+   padding-left:30px ;
+   padding-top: 20px;
+   margin-top: 25px;
+   
+}
+.foot-p2{
+    height: 230px;
+    width: 200px;
+    border: 1px solid transparent;
+    padding-left:30px ;
+    padding-top: 20px;
+    margin-top: 25px;
+    
+ }
+.foot-p3{
+    height: 230px;
+    width: 200px;
+    border: 1px solid transparent;
+    padding-left:30px ;
+    padding-top: 20px;
+    margin-top: 25px;
+ }
+ .foot-p4{
+    height: 230px;
+    width: 200px;
+    border: 1px solid transparent;
+    padding-left:30px ;
+    padding-top: 20px;
+    margin-top: 25px;
+ }
+ .last{
+    padding-top: 50px;
+    padding-left: 20px;
+ }
+ button{
+    height: 35px;
+    width: 90px;
+    color:white;
+    background-color: rgb(211, 55, 55);
+    border: 1px solid transparent;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+    
+
+ }
+ .top-lang{
+    height: 30px;
+    width: 150px;
+    
+ }
+ .top-logo{
+    margin-left: 80px;
+    margin-top: 50px;
+    background-image: url(nf-logo.png);
+    background-size: cover;
+    height: 70px;
+    width: 200px;
+    
+ }
+ .box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ }
+ .nf-top{
+    float: right;
+ }
+ .trendbox{
+    border-top: 5px rgb(243, 103, 127);
+ }
+.box1,.box2,.box3,.box4{
+    display: inline-block;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 25px;
+}
+.panel1{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+
+}
+.all{
+    margin-top: 25px;
+}
